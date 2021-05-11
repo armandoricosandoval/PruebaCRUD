@@ -11,7 +11,12 @@ Vamos a otra terminal nos paramos en la carpeta frontend npm install (para insta
 
 algunas imagenes de como es la app con material ui
 
+![image](https://user-images.githubusercontent.com/69026950/117761490-07bb1a00-b1ed-11eb-8f02-cedd3e61cd1f.png)
 
+![image](https://user-images.githubusercontent.com/69026950/117761532-1bff1700-b1ed-11eb-9dcf-56d9938fd4b2.png)
+
+
+![image](https://user-images.githubusercontent.com/69026950/117761583-346f3180-b1ed-11eb-8636-454976d303c0.png)
 
 
 
